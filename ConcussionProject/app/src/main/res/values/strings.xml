@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SCAT3 Symptom Checklist</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_to_app">Welcome To Our Concussion Test!</string>
+    <string name = "test_button">Test</string>
+    <string name = "continue_button">Continue button</string>
+    <string name = "symptom1">Headache</string>
+    <string name = "symptom2">“Pressure in head”</string>
+
+    <string name = "symptom3">Neck Pain</string>
+    <string name = "symptom4">Nausea or vomiting</string>
+    <string name = "symptom5">Dizziness</string>
+    <string name = "symptom6">Blurred vision</string>
+
+    <string name = "symptom7">Balance problems</string>
+    <string name = "symptom8">Sensitivity to light</string>
+    <string name = "symptom9">Sensitivity to noise</string>
+    <string name = "symptom10">Feeling slowed down</string>
+    <string name = "symptom11">Feeling like “in a fog“</string>
+    <string name = "symptom12">“Don’t feel right”</string>
+    <string name = "symptom13">Difficulty concentrating</string>
+    <string name = "symptom14">Difficulty remembering</string>
+    <string name = "symptom15">Fatigue or low energy</string>
+
+    <string name = "symptom16">Confusion</string>
+    <string name = "symptom17">Drowsiness</string>
+    <string name = "symptom18">Trouble falling asleep</string>
+    <string name = "symptom19">More emotional</string>
+    <string name = "symptom20">Irritability</string>
+    <string name = "symptom21">Sadness</string>
+
+    <string name = "symptom22">Nervous or Anxious</string>
+
+
+</resources>
